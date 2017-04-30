@@ -1,0 +1,7 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+	<item android:state_window_focused="false" android:state_selected="true" android:drawable="@android:color/transparent" /> 
+	<item android:state_selected="true" android:drawable="@android:color/transparent" /> 
+	<item android:state_pressed="true" android:state_selected="false" android:drawable="@android:color/transparent" /> 
+	<item android:state_selected="false" android:drawable="@color/row_background" /> 
+</selector>
+<!-- From: file:/C:/Users/Tussie/AndroidStudioProjects/wifi-direct-chat-master/app/src/main/res/drawable/row_bkgrd.xml -->

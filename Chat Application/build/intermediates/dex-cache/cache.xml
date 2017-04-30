@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Tussie\AndroidStudioProjects\wifi-direct-chat-master\app\libs\libGoogleAnalytics.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8d0254fe638021ff2ae4fe5bd53c2937006fdab5">
+        <dex dex="C:\Users\Tussie\AndroidStudioProjects\wifi-direct-chat-master\app\build\intermediates\pre-dexed\debug\libGoogleAnalytics-2fec47fe7c77a390a91571b53458a2b582090725.jar" />
+    </item>
+
+</items>
